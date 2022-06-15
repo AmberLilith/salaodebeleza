@@ -1,0 +1,23 @@
+{
+  "name": "salao-de-beleza",
+  "version": "1.0.0",
+  "description": "Projeto para testar MVC",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Amber Lilith",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "express-handlebars": "^6.0.6",
+    "mysql2": "^2.3.3",
+    "nodemon": "^2.0.16",
+    "sequelize": "^6.20.1"
+  },
+  "devDependencies": {
+    "@types/jest": "^28.1.1",
+    "jest": "^28.1.1",
+    "supertest": "^6.2.3"
+  }
+}
